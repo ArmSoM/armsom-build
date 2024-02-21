@@ -1,8 +1,8 @@
 #!/bin/bash
 
 install_packages() {
-    MALI=bifrost-g31-g13p0
-    dpkg -i /opt/libmali-*$MALI*.deb
+    # MALI=bifrost-g31-g13p0
+    # dpkg -i /opt/libmali-*$MALI*.deb
 }
 
 
